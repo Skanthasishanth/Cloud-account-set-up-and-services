@@ -79,9 +79,10 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 • Explore all the available services in AWS platform.
 # Output:
 
-![exp01](https://github.com/user-attachments/assets/110c5829-1b8a-411f-91bc-047b887a780a)
+![1111a](https://github.com/user-attachments/assets/dab9b232-8575-48df-af98-ea9a7d3445b2)
 
-![exp111](https://github.com/user-attachments/assets/a0147097-5b38-4217-9db5-597d2f6ac94d)
+
+![111bb](https://github.com/user-attachments/assets/87013eaf-6189-4bf9-a4db-f3a087223701)
 
 
 # Result:
